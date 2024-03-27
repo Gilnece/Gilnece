@@ -1,14 +1,21 @@
-   Sobre Mim
+Olá Me chamo Gilnece Menezes 🔥
+
+[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/gil.nece/)
    
-Olá! Eu sou Gilnece Menezes, um entusiasta da tecnologia apaixonado por Tecnologia e um aprediz como desenvolvedor. Estou sempre buscando aprender novas tecnologias e contribuir para projetos interessantes. Meu objetivo é criar soluções eficientes e elegantes que resolvam problemas do mundo real.
+Um entusiasta da tecnologia apaixonado por Tecnologia e um aprediz como desenvolvedor. Estou sempre buscando aprender novas tecnologias e contribuir para projetos interessantes. Meu objetivo é criar soluções eficientes e elegantes que resolvam problemas do mundo real.
 
 
 
    Habilidades
-- Linguagens de Programação: Python, JavaScript, HTML, CSS
-- Bancos de Dados: MySQL, MongoDB
-- Ferramentas de Controle de Versão: Git, GitHub
-- Outras habilidades: Desenvolvimento Web
+
+   https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+   https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+   https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+   https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+   https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+   https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+   https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+   
 
 
 

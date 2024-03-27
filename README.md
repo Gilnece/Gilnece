@@ -24,6 +24,3 @@
    Obrigado por visitar meu perfil! 😊
 Se você tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Estou sempre aberto a colaborações e novas oportunidades de aprendizado.
 
-![Snake_animarion](https://github.com/Gilnece/Gilnece/blob/output/github-contribution-grud-snake.svg
-
-![snake gif](https://github.com/Gilnece/blob/output/github-contribution-grid-snake.svg)

@@ -3,11 +3,10 @@
 Olá! Eu sou Gilnece Menezes, um entusiasta da tecnologia apaixonado por Tecnologia e um aprediz como desenvolvedor. Estou sempre buscando aprender novas tecnologias e contribuir para projetos interessantes. Meu objetivo é criar soluções eficientes e elegantes que resolvam problemas do mundo real.
 
    Habilidades
-- Linguagens de Programação: Python, JavaScript, Java
-- Frameworks: Flask, React.js, Spring Boot
+- Linguagens de Programação: Python, JavaScript, HTML, CSS
 - Bancos de Dados: MySQL, MongoDB
 - Ferramentas de Controle de Versão: Git, GitHub
-- Outras habilidades: Desenvolvimento Web, Desenvolvimento de APIs, Docker
+- Outras habilidades: Desenvolvimento Web
 
 
    Contato

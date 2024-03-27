@@ -1,10 +1,7 @@
 ## Olá Me chamo Gilnece Menezes 🔥
-
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilnece&show_icons=true&theme=dark)
-
-</br>
 
    ### Tecnologias
 </br>
@@ -14,7 +11,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-</br>
 
    ### Contato
 
@@ -22,8 +18,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gil.nece/)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilnece-menezes-b77065148/)
 
-</br>
-</br>
 </br>
 
 

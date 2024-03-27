@@ -16,8 +16,7 @@ Olá! Eu sou Gilnece Menezes, um entusiasta da tecnologia apaixonado por Tecnolo
    
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gilnece)](https://github.com/Gilnece/github-readme-stats)
 
-   Licença
-Este README está sob a licença [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 
    Obrigado por visitar meu perfil! 😊
 Se você tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Estou sempre aberto a colaborações e novas oportunidades de aprendizado.

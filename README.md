@@ -13,8 +13,8 @@ Olá! Eu sou Gilnece Menezes, um entusiasta da tecnologia apaixonado por Tecnolo
 - LinkedIn: https://www.linkedin.com/in/gilnece-menezes-b77065148/
 - Email: gilnece15@gmail.com
 
-   Estatísticas do GitHub
-[![ ](https://github-readme-stats.vercel.app/api?username=Gilnece)](https://github.com/Gilnece/github-readme-stats)
+   
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gilnece)](https://github.com/Gilnece/github-readme-stats)
 
    Licença
 Este README está sob a licença [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

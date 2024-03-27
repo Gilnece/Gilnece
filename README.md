@@ -14,7 +14,8 @@ Olá! Eu sou Gilnece Menezes, um entusiasta da tecnologia apaixonado por Tecnolo
 - Email: gilnece15@gmail.com
 
    Estatísticas do GitHub
-[![Estatisticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=Gilnece)](https://github.com/Gilnece/github-readme-stats)
+[![Estatisticas do meu GitHub]
+(https://github-readme-stats.vercel.app/api?username=Gilnece)](https://github.com/Gilnece/github-readme-stats)
 
    Licença
 Este README está sob a licença [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

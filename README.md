@@ -2,7 +2,6 @@
 
 </br>
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gilnece)](https://github.com/Gilnece/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilnece&show_icons=true&theme=dark)
 
 </br>

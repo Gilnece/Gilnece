@@ -26,6 +26,7 @@
    Obrigado por visitar meu perfil! 😊
 Se você tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Estou sempre aberto a colaborações e novas oportunidades de aprendizado.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Snake animation](https://github/Gilnece/Gilnece/blob/output/github-contribution-grid-snake.svg)
+
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Gilnece&repo=Gilnece&theme=react)](https://github.com/Gilnece/Gilnece)

@@ -26,3 +26,6 @@
    Obrigado por visitar meu perfil! 😊
 Se você tiver alguma pergunta ou sugestão, não hesite em entrar em contato. Estou sempre aberto a colaborações e novas oportunidades de aprendizado.
 
+
+![Snake animation](https://github/Gilnece/Gilnece/blob/output/github-contribution-grid-snake.svg)
+[![redme](https://github-readme-stats.vercel.app/api/pin/?username=Gilnece&repo=Gilnece&theme=react)](https://github.com/Gilnece/Gilnece)

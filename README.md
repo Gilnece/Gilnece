@@ -1,7 +1,12 @@
-## Olá Me chamo Gilnece Menezes 🔥
-</br>
+##  👋 Olá! Eu sou Gilnece Menezes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilnece&show_icons=true&theme=dark)
+🎓 Tenho 25 anos e estou prestes a concluir minha graduação em Engenharia da Computação.
+
+💻 Sou um entusiasta de tecnologia apaixonado por explorar suas possibilidades.
+
+🔧 Tenho um interesse especial em hardware, mas atualmente estou dedicando meu tempo ao aprendizado e estudo de desenvolvimento web e de software.
+
+📚 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades na área da tecnologia.
 
    ### Tecnologias
 </br>
@@ -21,6 +26,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gil.nece/)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilnece)
 
 </br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilnece&show_icons=true&theme=dark)
 
 
    Obrigado por visitar meu perfil! 😊
